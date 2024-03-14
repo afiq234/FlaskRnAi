@@ -1,4 +1,9 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli). 
+
+This project was developed to do with python react integration which could used as multiple purpose of development that is for AI, IOT, Automation and etc. Hence this code is just a simple project which
+could gain insight of how necessary it is the mobile application system.
+
+!!!Still the error is there for now, the problem produced is Test Connection Failed.!!!
 
 # Getting Started
 
