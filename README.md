@@ -10,6 +10,13 @@ Furthermore, this project is implementing simple AI model, the iris flower ident
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+>
+>Please install >>
+>Android App Studio
+>Node Js
+>Necessary installation for React
+>
+>After installation create own project and insert the code into codebase
 
 ## Step 1: Start the Metro Server
 
