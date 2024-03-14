@@ -5,6 +5,8 @@ could gain insight of how necessary it is the mobile application system.
 
 !!!Still the error is there for now, the problem produced is Test Connection Failed.!!!
 
+Furthermore, this project is implementing simple AI model, the iris flower identification
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
